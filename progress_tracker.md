@@ -2,10 +2,10 @@
 
 
 ## 📦 Arrays
-- 🔳 Second Largest Element
-- 🔳 Third Largest Element
+- ✅ Second Largest Element
+- ✅ Third Largest Element
 - ✅ Reverse an Array
-- 🔳 Reverse Array in Groups
+- ✅ Reverse Array in Groups
 - ✅ Rotate Array
 - 🔳 Three Great Candidates
 - 🔳 Max Consecutive Ones
